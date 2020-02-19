@@ -13,7 +13,7 @@ This is my PCB design for the project
 This is my PCB connected to the sensor along with the Neopixel ring
 ![pcb_wiring](https://user-images.githubusercontent.com/55503392/74799922-ec8a8480-529f-11ea-9064-0470e414cc29.png)
 
-##Breadboard Layout
+## Breadboard Layout
 ![BreadBoard wiring](https://user-images.githubusercontent.com/55503392/74857282-758dd400-5311-11ea-841c-81878ac72c5b.png)
 
 ## Connection descriptions
