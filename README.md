@@ -3,4 +3,4 @@ The Tsl2591 Luminosity sensor measures visible+IR+full spectrum light values
 
 ## Schematic Design
 
-![Schematic](https://github.com/Dev-109/Tsl2591-Light-sensor/issues/1#issue-567282471)
+![Schematic](https://user-images.githubusercontent.com/55503392/74797626-869afe80-5299-11ea-9aa0-502505d1a43c.png)
