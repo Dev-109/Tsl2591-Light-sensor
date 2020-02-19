@@ -17,4 +17,4 @@ This is my PCB connected to the sensor along with the Neopixel ring
 ![BreadBoard wiring](https://user-images.githubusercontent.com/55503392/74857282-758dd400-5311-11ea-841c-81878ac72c5b.png)
 
 ## Connection descriptions
-The 3.3v pin from the Pi connects to the Vin of the sensor and provides it with power. Both the GND connections for the Pi and the sensor are connected together on the PCB. The Pi Synchronized clock pin connects to the sensor SCK pin. The Pi SDA pin is connected with the sensor SDA pin. Furthermore to connect the Neopixel ring I have to use a SN74AHCT125 3.3v to 5v level converter chip
+The 3.3v pin from the Pi connects to the Vin of the sensor and provides it with power. Both the GND connections for the Pi and the sensor are connected together on the PCB. The Pi Synchronized clock pin connects to the sensor SCK pin. The Pi SDA pin is connected with the sensor SDA pin. Furthermore to connect the Neopixel ring I have to use a SN74AHCT125 3.3v to 5v level converter chip. The GPIO 18 pin of the PI connects to the 
